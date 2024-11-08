@@ -23,5 +23,6 @@ After this, create a .env file in the main directory with the following format:
 
 ```dotenv
 API_KEY = "YOUR API KEY HERE"
-API_HOST "API HOST HERE (ex. 'wordsapiv1.p.rapidapi.com')"
+API_HOST = "API HOST HERE"
+# ex: wordsapiv1.p.rapidapi.com
 ```
